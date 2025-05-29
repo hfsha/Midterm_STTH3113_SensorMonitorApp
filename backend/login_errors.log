@@ -1,0 +1,15 @@
+[29-May-2025 03:25:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(13): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:26:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_STINESS" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(13): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:27:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_STINESS" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(13): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38

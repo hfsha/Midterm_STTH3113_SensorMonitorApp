@@ -1,0 +1,36 @@
+Raw JSON input received: temp_threshold=33&hum_threshold=90Decoded JSON data: JSON decode failed for input: temp_threshold=33&hum_threshold=90Raw JSON input received: temp_threshold=26&hum_threshold=70Decoded JSON data: JSON decode failed for input: temp_threshold=26&hum_threshold=70Raw JSON input received: {"device_id":101,"temp_threshold":33.0,"hum_threshold":80.0}Decoded JSON data: Array
+(
+    [device_id] => 101
+    [temp_threshold] => 33
+    [hum_threshold] => 80
+)
+Raw JSON input received: {"device_id":101,"temp_threshold":22.0,"hum_threshold":60.0}Decoded JSON data: Array
+(
+    [device_id] => 101
+    [temp_threshold] => 22
+    [hum_threshold] => 60
+)
+Raw JSON input received: {"device_id":101,"temp_threshold":40.0,"hum_threshold":95.0}Decoded JSON data: Array
+(
+    [device_id] => 101
+    [temp_threshold] => 40
+    [hum_threshold] => 95
+)
+Raw JSON input received: {"device_id":101,"temp_threshold":26.0,"hum_threshold":70.0}Decoded JSON data: Array
+(
+    [device_id] => 101
+    [temp_threshold] => 26
+    [hum_threshold] => 70
+)
+Raw JSON input received: {"device_id":101,"temp_threshold":40.0,"hum_threshold":95.0}Decoded JSON data: Array
+(
+    [device_id] => 101
+    [temp_threshold] => 40
+    [hum_threshold] => 95
+)
+Raw JSON input received: {"device_id":101,"temp_threshold":30.0,"hum_threshold":95.0}Decoded JSON data: Array
+(
+    [device_id] => 101
+    [temp_threshold] => 30
+    [hum_threshold] => 95
+)

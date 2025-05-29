@@ -1,0 +1,1252 @@
+[28-May-2025 19:31:27 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:31:30 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:39:23 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:06 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:07 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:08 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:33 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:43:57 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 19:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 19:43:57 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 19:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 19:43:59 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 19:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 19:51:20 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:53:46 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:54:48 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 19:54:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php on line 18
+[28-May-2025 20:00:05 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php(85): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 20:00:15 UTC] PHP Warning:  Undefined variable $pdo in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 20:00:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php on line 18
+[28-May-2025 20:02:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 20:17:21 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 20:46:59 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 20:50:40 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 20:51:42 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 21:16:40 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 21:16:47 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 21:18:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 21:18:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 22:58:22 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 23:03:53 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 23:07:44 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 23:15:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 23:26:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[28-May-2025 23:28:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[29-May-2025 01:33:44 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:25
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php(25): mysqli->close()
+#1 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(67): DBConnection->close()
+#2 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 25
+[29-May-2025 02:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:41:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:42:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:43:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:43:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:44:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:44:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:81
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 81
+[29-May-2025 02:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:45:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:45:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:46:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:47:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:47:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:47:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:48:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:48:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:48:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:49:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:49:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:88
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 88
+[29-May-2025 02:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::setThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:61
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 61
+[29-May-2025 02:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::setThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:61
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 61
+[29-May-2025 03:02:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:02:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:03:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:04:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:04:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:04:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:98
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 98
+[29-May-2025 03:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:08:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:08:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:09:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:09:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:09:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:10:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:10:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:10:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:10:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:10:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:11:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:11:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:11:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:11:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:11:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:12:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:108
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 108
+[29-May-2025 03:12:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:14:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:14:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:14:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:14:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:15:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:15:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:15:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getThresholds() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php:106
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php on line 106
+[29-May-2025 03:16:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:16:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:16:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:16:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:16:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:17:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:17:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:17:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:17:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:17:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:17:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:18:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:19:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/register.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:20:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_api.php(21): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 03:23:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "MYSQLI_REPORT_WARN" in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php:38
+Stack trace:
+#0 /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/login.php(6): DBConnection->__construct()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dbconnect.php on line 38
+[29-May-2025 04:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:28:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:31:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:32:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:33:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:33:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:34:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:34:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 15
+[29-May-2025 04:34:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:34:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:34:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:36:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:37:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:37:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:38:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 24
+[29-May-2025 04:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:38:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:38:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:38:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:39:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:39:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:39:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:40:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:40:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:40:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:40:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:41:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:41:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:41:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
+[29-May-2025 04:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DBConnection::getLatestReadings() in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/humancmt/public_html/shahidatulhidayah/iottraining/backend/dht11_fetch.php on line 34
